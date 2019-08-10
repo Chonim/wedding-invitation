@@ -5,5 +5,5 @@
  */
 
 module.exports = {
-  pathPrefix: "/reponame",
+  pathPrefix: "/wedding-invitation",
 }
